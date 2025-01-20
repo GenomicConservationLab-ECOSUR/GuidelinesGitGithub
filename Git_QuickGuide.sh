@@ -11,7 +11,7 @@ $ git branch Branch_01
 # 4: Entrar a la rama que acabas de crear
 $ git checkout Branch_01
 # 3: Crea y edita tus archivos, scripts, etc desde tu computadora. Para agregar los nuesvos cambios de un archivo:
-$ add script.sh
+$ git add script.sh
 # 4. Hacer commit
 $ git commit --messagge"add script de bash"
 # 5. Hacer un git push 
