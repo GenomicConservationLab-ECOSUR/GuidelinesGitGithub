@@ -9,7 +9,7 @@ $ git pull origin main
 # 3: Crear una nueva rama
 $ git branch Branch_01
 # 4: Entrar a la rama que acabas de crear
-$ git checkup Branch_01
+$ git checkout Branch_01
 # 3: Crea y edita tus archivos, scripts, etc desde tu computadora. Para agregar los nuesvos cambios de un archivo:
 $ add script.sh
 # 4. Hacer commit
